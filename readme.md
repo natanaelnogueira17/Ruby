@@ -11,12 +11,14 @@ utilzei uma branch de teste para melhorar meu conhecimento em git
 3- git checkout -b {nome da branch}
   cria uma branch nova
 4- git add .
-  seleciona todos os arquivos para gerar um commit
+  seleciona todos os arquivos envia para o stage para entao gerar um commit
 5- git commit -m "mensagem sobre o commit"
   cria um commit para ser enviado para o remote repository
-6- git push origin {branch}
+6- git status
+  apresneta o status do commit  
+7- git push origin {branch}
   envia arquivos para o remote repository
-7- git pull origin {branch}
+8- git pull origin {branch}
   baixa a versao atualizada do projeto direto do remote para o local repository(atualizar)
-8-git log
+9-git log
   ler o historico de commits

@@ -20,5 +20,8 @@ utilzei uma branch de teste para melhorar meu conhecimento em git
   envia arquivos para o remote repository
 8- git pull origin {branch}
   baixa a versao atualizada do projeto direto do remote para o local repository(atualizar)
-9-git log
+9-git log  ou git log --oneline
   ler o historico de commits
+
+ 10-ls
+     gera uma lista dos arquivos modificados
